@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BelajarLayout</string>
+    <string name="bilangan1">Bilangan 1</string>
+    <string name="bilangan2">Bilangan 2</string>
+    <string name="hasil">Hasil</string>
+
 </resources>
